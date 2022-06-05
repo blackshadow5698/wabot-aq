@@ -1,5 +1,5 @@
 {
-  "name": "wabot-aq",
+  "name": "blackshadow5698",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
+    "url": "git+https://github.com/blackshadow5698/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/blackshadow5698/wabot-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

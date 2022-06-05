@@ -1,8 +1,8 @@
-# wabot-aq
+# blackshadow5698
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/blackshadow5698)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -12,8 +12,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+git clone https://github.com/Nurutomo/blackshadow5698
+cd blackshadow5698-aq
 npm install
 npm update
 ```
